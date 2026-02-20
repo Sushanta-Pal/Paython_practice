@@ -1,0 +1,2 @@
+2026-02-20 16:01:51,087 - INFO - Counting frequency of each character in the string
+2026-02-20 16:01:51,088 - INFO - Character frequency calculated: {'S': 1, 'u': 1, 's': 1, 'h': 1, 'a': 3, 'n': 1, 't': 1, ' ': 1, 'P': 1, 'l': 1}

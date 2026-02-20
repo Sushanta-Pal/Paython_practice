@@ -1,0 +1,2 @@
+2026-02-20 16:04:09,187 - INFO - Removing duplicates from the list
+2026-02-20 16:04:09,187 - INFO - List after removing duplicates: [1, 2, 4, 5, 6]
